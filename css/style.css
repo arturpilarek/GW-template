@@ -12,6 +12,11 @@ body {
     
 }
 
+/* skal fjernes, jeg bruger den kun for at tjekke hojde pa siden  */
+.height__test {
+  min-height: 200vh;
+}
+
 .gradient {
   background-image: linear-gradient(white 30%, #707070, orange);
 }
@@ -45,9 +50,6 @@ body {
   top: 60%;
 }
 
-.height__test {
-  min-height: 200vh;
-}
 
 
 /* Footer  */
